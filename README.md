@@ -3,7 +3,7 @@
 ## car.py and testcar.py
 ### Instructions
 1. Run testcar.py
-2. It will display the acceleration of car.
+2. It will display the acceleration and braking of car in intervals of 5.
 
 ## fan.py and testfan.py
 ### Instructions
